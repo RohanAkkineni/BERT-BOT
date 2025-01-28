@@ -1,2 +1,2 @@
-# BERT-for-mental-health
-BERT is fine tuned for Mental health as a proof of concept model. The data used comprises of over 3000 rows of unique question-answer pair.
+# BERT is fine tuned for question asnwering task
+A BERT model is fine tuned for question asnwering tasks. If provided with a question and its context, the model will be able to answer the question from the context. It is trained on 5000 rows of SQuAD Dataset for 3 epochs
